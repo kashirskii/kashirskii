@@ -1,4 +1,4 @@
-<h1>👋: Hi there! I`m Egor Kashirskii</h1>
+<h1>👋 Hi there! I`m Egor Kashirskii</h1>
 <h4>Frontend developer from Russia 🖥️</h4>
 
 * I’m currently learning frontend stuff 🍼
